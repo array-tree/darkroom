@@ -5,6 +5,5 @@ https://www.luogu.com.cn/team/32221#main
 
 如有侵权，请留言。
 
-
-ps：原作者已弃坑，我只是把代码改进，完善一下，搬到github上来。
+ps：原作者已弃坑
 
